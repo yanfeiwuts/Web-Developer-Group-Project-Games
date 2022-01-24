@@ -1,0 +1,17 @@
+[[package]]
+name = "start"
+version = "0.2"
+description = "Very simple command to start a single process from a Procfile"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "ad49e6fc95d31842a9078f479a6d116ffdfc16ddd057410d6dde7f2811ba062c"
+
+[metadata.files]
+start = [
+    {file = "start-0.2.tar.gz", hash = "sha256:29247a6a870012f15859ac55b4f93215b2e6f2b1318cbe23609f6895132ae278"},
+]
